@@ -7,6 +7,26 @@
 
 Crypto Price Predictor is a Windows Forms application developed in C# that allows users to fetch, display, and predict cryptocurrency prices using APIs from **Bybit** and **Gemini**. The application features live charting with technical indicators, theming options, and data export capabilities.
 
+## Prepare first ( Bybit API & Gemini API [ if you can not get it, contact me with @quochung.truong.1910 on facebook )
+## BYBIT API
+- scan this qr to register or login 
++ ![1734552243991](https://github.com/user-attachments/assets/586eccce-5817-477d-9d45-944ea2033bef)
+- after that login then 
+- click on this 
++ ![{13B4616E-CFF6-4BAF-BA78-D83853DEB523}](https://github.com/user-attachments/assets/14529550-1c47-484d-bdcb-2045971346a5)
+- then click on API
++ ![{B9DCA069-D408-45AC-81E3-466962C5DA5C}](https://github.com/user-attachments/assets/0f28ae08-9289-4623-a534-d10ae324db52)
+- then select "Create new key" and chose "System Generated API Keys"
+- Give API KEY a name, everything give it to the default
+- Click on Unified Trading 
+![{B860C56B-A57B-4D78-82F6-F0BE37BD6CFC}](https://github.com/user-attachments/assets/2c57a2ee-369c-496b-bf55-d892e328336a)
+- You should keep API-key and API-Secret carefully, if someone take it, they gonna see the chart with you...:V ( DO NOT CLICK ON ASSETS BECAUSE I WANT THE SAFETY FOR YOU, 1M2 HAVE 10 ROBBERS )
+## GEMINI API
+- CLICK ON THIS LINK 
++ https://aistudio.google.com/prompts/new_chat
+- click on GET API KEY
++ then you have it
+
 ## Table of Contents
 
 - [Features](#features)
