@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CryptoPricePredictor</id>
+    <version>1.0.0</version>
+    <authors>CryptoPricePredictor</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="6a1e86675ff3ae7564ca8ff4d365bb95a8666279" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.ML" version="4.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.ML.TimeSeries" version="4.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json.Bson" version="1.0.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json.Schema" version="4.0.1" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="112.1.0" exclude="Build,Analyzers" />
+        <dependency id="Skender.Stock.Indicators" version="2.6.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="WinForms.DataVisualization" version="1.9.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.runtimeconfig.json" target="lib\net8.0-windows7.0\CryptoPricePredictor.runtimeconfig.json" />
+    <file src="C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.dll" target="lib\net8.0-windows7.0\CryptoPricePredictor.dll" />
+  </files>
+</package>

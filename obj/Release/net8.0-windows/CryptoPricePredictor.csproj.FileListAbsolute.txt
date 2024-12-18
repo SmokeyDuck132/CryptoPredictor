@@ -1,0 +1,95 @@
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.MainForm.resources
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.AssemblyInfoInputs.cache
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.AssemblyInfo.cs
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.exe
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.deps.json
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.runtimeconfig.json
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.pdb
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Skender.Stock.Indicators.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.Text.Json.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPr.90C29CEE.Up2Date
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\refint\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.pdb
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.genruntimeconfig.cache
+C:\Users\truon\Desktop\Projects\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\ref\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.exe
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.deps.json
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.runtimeconfig.json
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\CryptoPricePredictor.pdb
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.Core.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.Data.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.KMeansClustering.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.PCA.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.StandardTrainers.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.Transforms.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.CpuMath.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.DataView.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Microsoft.ML.TimeSeries.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Newtonsoft.Json.Schema.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\Skender.Stock.Indicators.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.Numerics.Tensors.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\System.Text.Json.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-arm\native\libLdaNative.so.dbg
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libLdaNative.so.dbg
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-x64\native\libLdaNative.so.dbg
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-arm64\native\libLdaNative.dylib.dwarf
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-x64\native\libLdaNative.dylib.dwarf
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-arm64\native\LdaNative.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x64\native\LdaNative.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x86\native\LdaNative.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-x64\native\libMklImports.so
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\linux-x64\native\libMklProxyNative.so.dbg
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\osx-x64\native\libMklProxyNative.dylib.dwarf
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x64\native\MklImports.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x86\native\MklImports.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.csproj.AssemblyReference.cache
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.MainForm.resources
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.csproj.GenerateResource.cache
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.AssemblyInfoInputs.cache
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.AssemblyInfo.cs
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.csproj.CoreCompileInputs.cache
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.sourcelink.json
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPr.90C29CEE.Up2Date
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\refint\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.pdb
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.genruntimeconfig.cache
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\ref\CryptoPricePredictor.dll
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\bin\Release\net8.0-windows\DEV.jpg
+C:\Users\truon\Desktop\Projects\New folder\CryptoPricePredictor\CryptoPricePredictor\obj\Release\net8.0-windows\CryptoPricePredictor.Properties.Resources.resources
