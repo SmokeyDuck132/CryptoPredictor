@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
@@ -37,20 +37,55 @@ namespace CryptoPricePredictor
                     {
                         new
                         {
-                            text = $"Analyze the following cryptocurrency market data and indicators (MA7, MA14, MA28, EMA7, EMA14, EMA28, Bollinger Bands, SAR, RSI6, RSI12, RSI24, StochRSI, MACD, KDJ):\n\n" +
-                                   $"{inputData}\n\n" +
-                                   "Provide a clear and concise prediction summary for the next 1 day, 5 days, 15 days, and 3 months. " +
-                                   "Include the following for each time frame:\n" +
-                                   "1. Whether the price will rise or fall.\n" +
-                                   "2. The expected price range (predicted high and low).\n" +
-                                   "3. The expected percentage change (rise or drop).\n" +
-                                   "4. The probability (chances) of each scenario happening, such as 60% rise and 40% fall.\n" +
-                                   "5. The key indicators (like MA, EMA, RSI, MACD) that influenced the prediction.\n\n" +
-                                   "Format the response strictly as:\n" +
-                                   "1 Day:\n- Movement: [Rise/Fall]\n- Range: [Low Price] - [High Price]\n- Change: [+X.XX% / -Y.YY%]\n- Probability: [X% Rise / Y% Fall]\n- Key Indicators: [MA7, RSI, MACD]\n\n" +
-                                   "5 Days:\n- Movement: [Rise/Fall]\n- Range: [Low Price] - [High Price]\n- Change: [+X.XX% / -Y.YY%]\n- Probability: [X% Rise / Y% Fall]\n- Key Indicators: [Bollinger Bands, EMA14]\n\n" +
-                                   "15 Days:\n- Movement: [Rise/Fall]\n- Range: [Low Price] - [High Price]\n- Change: [+X.XX% / -Y.YY%]\n- Probability: [X% Rise / Y% Fall]\n- Key Indicators: [RSI24, MACD]\n\n" +
-                                   "3 Months:\n- Movement: [Rise/Fall]\n- Range: [Low Price] - [High Price]\n- Change: [+X.XX% / -Y.YY%]\n- Probability: [X% Rise / Y% Fall]\n- Key Indicators: [EMA28, KDJ]"
+                            text = $"You are a virtual currency investment expert specializing in swing trading to accumulate more assets. Analyze the following cryptocurrency market data and technical indicators (MA7, MA14, MA28, EMA7, EMA14, EMA28, Bollinger Bands, SAR, RSI6, RSI12, RSI24, StochRSI, MACD, KDJ):\n\n" +
+         $"{inputData}\n\n" +
+         "Provide a concise and actionable prediction summary for the next 1 day, 5 days, 15 days, and 3 months. For each time frame, include the following details:\n" +
+         "1. **Price Movement**: Indicate whether the price is expected to Rise or Fall.\n" +
+         "2. **Price Range**: Specify the predicted Low and High Prices.\n" +
+         "3. **Percentage Change**: Detail the expected percentage Increase or Decrease.\n" +
+         "4. **Probability Assessment**: Provide the likelihood of each scenario (e.g., 60% Rise, 40% Fall).\n" +
+         "5. **Key Indicators**: Highlight the technical indicators influencing the prediction.\n" +
+         "6. **Swing Trading Zones**:\n" +
+         "   - **BuyZone**: Recommended price to initiate a buy order.\n" +
+         "   - **SellZone**: Strategic price to execute a sell order.\n" +
+         "   - **ReBuyZone**: Suggested price to rebuy after selling (e.g., sell at 99k, rebuy at 95k).\n\n" +
+         "Ensure the response strictly follows the structure below without additional explanations:\n\n" +
+         "### 1 Day:\n" +
+         "- **BuyZone**: [BuyPrice]\n" +
+         "- **SellZone**: [SellPrice]\n" +
+         "- **ReBuyZone**: [ReBuyPrice]\n" +
+         "- **Movement**: [Rise/Fall]\n" +
+         "- **Range**: [Low Price] - [High Price]\n" +
+         "- **Change**: [+X.XX% / -Y.YY%]\n" +
+         "- **Probability**: [X% Rise / Y% Fall]\n" +
+         "- **Key Indicators**: [MA7, RSI, MACD]\n\n" +
+         "### 5 Days:\n" +
+         "- **BuyZone**: [BuyPrice]\n" +
+         "- **SellZone**: [SellPrice]\n" +
+         "- **ReBuyZone**: [ReBuyPrice]\n" +
+         "- **Movement**: [Rise/Fall]\n" +
+         "- **Range**: [Low Price] - [High Price]\n" +
+         "- **Change**: [+X.XX% / -Y.YY%]\n" +
+         "- **Probability**: [X% Rise / Y% Fall]\n" +
+         "- **Key Indicators**: [Bollinger Bands, EMA14]\n\n" +
+         "### 15 Days:\n" +
+         "- **BuyZone**: [BuyPrice]\n" +
+         "- **SellZone**: [SellPrice]\n" +
+         "- **ReBuyZone**: [ReBuyPrice]\n" +
+         "- **Movement**: [Rise/Fall]\n" +
+         "- **Range**: [Low Price] - [High Price]\n" +
+         "- **Change**: [+X.XX% / -Y.YY%]\n" +
+         "- **Probability**: [X% Rise / Y% Fall]\n" +
+         "- **Key Indicators**: [RSI24, MACD]\n\n" +
+         "### 3 Months:\n" +
+         "- **BuyZone**: [BuyPrice]\n" +
+         "- **SellZone**: [SellPrice]\n" +
+         "- **ReBuyZone**: [ReBuyPrice]\n" +
+         "- **Movement**: [Rise/Fall]\n" +
+         "- **Range**: [Low Price] - [High Price]\n" +
+         "- **Change**: [+X.XX% / -Y.YY%]\n" +
+         "- **Probability**: [X% Rise / Y% Fall]\n" +
+         "- **Key Indicators**: [EMA28, KDJ]"
                         }
                     }
                 }
